@@ -1,0 +1,7 @@
+Backend
+docker-compose.yml
+.dockerignore
+render.yaml
+Dockerfile
+DEPLOYMENT_GUIDE.md
+.env
